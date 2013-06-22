@@ -1,0 +1,59 @@
+# finnish translation of mandriva-galaxy
+#
+# Jani Välimaa <jani.valimaa@gmail.com>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: mandriva-galaxy\n"
+"Report-Msgid-Bugs-To: https://qa.mandriva.com\n"
+"POT-Creation-Date: 2009-04-09 11:44-0300\n"
+"PO-Revision-Date: 2009-04-21 16:59+0300\n"
+"Last-Translator: Jani Välimaa <jani.valimaa@gmail.com>\n"
+"Language-Team: Finnish <cooker-i18n@mandrivalinux.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.3\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. i18n: file: mandrivagalaxy.ui:16
+#. i18n: ectx: property (windowTitle), widget (QWidget, MandrivaGalaxyUI)
+#: main.cpp:35 po/rc.cpp:3 rc.cpp:3
+msgid "Mandriva Galaxy"
+msgstr "Mandriva Galaxy"
+
+#: main.cpp:37 main.cpp:40
+msgid "Show Mandriva information at startup"
+msgstr "Näytä Mandrivan tiedot käynnistyessä"
+
+#: main.cpp:39
+msgid "(c) 2008"
+msgstr "(c) 2008"
+
+#. i18n: file: mandrivagalaxy.ui:23
+#. i18n: ectx: property (url), widget (QWebView, webView)
+#: po/rc.cpp:6 rc.cpp:6
+msgid "about:blank"
+msgstr "about:blank"
+
+#. i18n: file: mandrivagalaxy.ui:33
+#. i18n: ectx: property (text), widget (QCheckBox, showAtStartupCheckBox)
+#: po/rc.cpp:9 rc.cpp:9
+msgid "Open this window on startup"
+msgstr "Avaa tämä ikkuna käynnistyessä"
+
+#. i18n: file: mandrivagalaxy.ui:56
+#. i18n: ectx: property (text), widget (QPushButton, closeButton)
+#: po/rc.cpp:12 rc.cpp:12
+msgid "Close"
+msgstr "Sulje"
+
+#: po/rc.cpp:13 rc.cpp:13
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Jani Välimaa"
+
+#: po/rc.cpp:14 rc.cpp:14
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "<jani.valimaa@gmail.com>"
+

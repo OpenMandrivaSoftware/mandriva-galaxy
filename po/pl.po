@@ -1,0 +1,58 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Ireneusz Gierlach <ireneusz.gierlach@gmx.com>, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://qa.mandriva.com\n"
+"POT-Creation-Date: 2009-04-09 11:44-0300\n"
+"PO-Revision-Date: 2010-02-01 11:50+0200\n"
+"Last-Translator: Ireneusz Gierlach <ireneusz.gierlach@gmx.com>\n"
+"Language-Team: Polish <pl@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. i18n: file: mandrivagalaxy.ui:16
+#. i18n: ectx: property (windowTitle), widget (QWidget, MandrivaGalaxyUI)
+#: main.cpp:35 po/rc.cpp:3 rc.cpp:3
+msgid "Mandriva Galaxy"
+msgstr "Mandriva Galaxy"
+
+#: main.cpp:37 main.cpp:40
+msgid "Show Mandriva information at startup"
+msgstr "Pokaż informacje o systemie Mandriva Linux podczas startu"
+
+#: main.cpp:39
+msgid "(c) 2008"
+msgstr "(c) 2008"
+
+#. i18n: file: mandrivagalaxy.ui:23
+#. i18n: ectx: property (url), widget (QWebView, webView)
+#: po/rc.cpp:6 rc.cpp:6
+msgid "about:blank"
+msgstr "O programie:pusta strona"
+
+#. i18n: file: mandrivagalaxy.ui:33
+#. i18n: ectx: property (text), widget (QCheckBox, showAtStartupCheckBox)
+#: po/rc.cpp:9 rc.cpp:9
+msgid "Open this window on startup"
+msgstr "Otwórz podczas startu"
+
+#. i18n: file: mandrivagalaxy.ui:56
+#. i18n: ectx: property (text), widget (QPushButton, closeButton)
+#: po/rc.cpp:12 rc.cpp:12
+msgid "Close"
+msgstr "Zamknij"
+
+#: po/rc.cpp:13 rc.cpp:13
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Ireneusz Gierlach"
+
+#: po/rc.cpp:14 rc.cpp:14
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "ireneusz.gierlach@gmx.com"

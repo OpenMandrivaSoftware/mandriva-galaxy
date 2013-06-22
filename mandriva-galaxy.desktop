@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Mandriva Galaxy
+Type=Application
+Exec=mandriva-galaxy
+Icon=mandriva-galaxy
+DocPath=mandrivagalaxy/index.html
+Terminal=false
